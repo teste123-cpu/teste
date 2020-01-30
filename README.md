@@ -1,2 +1,2 @@
 # teste
-sóo teste
+só teste
